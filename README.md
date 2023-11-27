@@ -1,2 +1,2 @@
 Usage:
-sbt "run <text> <output file path>"
+sbt "run text output_file_path"
